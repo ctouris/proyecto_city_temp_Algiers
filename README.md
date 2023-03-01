@@ -2,7 +2,7 @@
 This is a Python program that connects to a MySQL Workbench database using XAMPP and retrieves the average temperature for a specific day, month, year, and city. 
 This dataset was downloaded from Kaggle.
 
-This is a Python program that connects to a MySQL database and retrieves the average temperature for a specific day, month, year, and city. The program prompts the user to input the day, month, year, and city, and then uses these values to construct a SQL query to retrieve the data. The retrieved data is then printed to the console in a formatted manner.
+The program prompts the user to input the day, month, year, and city, and then uses these values to construct a SQL query to retrieve the data. The retrieved data is then printed to the console in a formatted manner.
 
 Here is a brief explanation of what each line of the code does:
 
